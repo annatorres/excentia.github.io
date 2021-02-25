@@ -85,6 +85,8 @@ Contacta con nosotros y te guiáremos hacia la mejor implementación de la inspe
 <hr>
 <br/>
 
+
+<!--Contact Form SonarSource-->
 <div id="contact-form-hubspot">
 	<h1>¿Necesitas ayuda en tu camino de inspección continua?</h1>
 <p>Rellena el formulario y te responderemos en 24 horas (o menos).</p>
